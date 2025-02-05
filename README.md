@@ -5,3 +5,7 @@ Author - Yash Maurya
 Chapter Java script
 
 console.log ("Hey, Today I Start my coding Journey of Java script");
+
+lists 
+
+
