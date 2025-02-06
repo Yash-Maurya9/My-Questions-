@@ -8,4 +8,6 @@ console.log ("Hey, Today I Start my coding Journey of Java script");
 
 lists 
 
+Day 1: Java script Concepts variabe and data types 
+
 
