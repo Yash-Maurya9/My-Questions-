@@ -77,6 +77,10 @@ console.log(a);
 
 
 strings 
-
+ strings are the series of character i which we can stare the characters like abcd in  double quotes or single " " ' '
+ methods toUppercase ()
+ toLowercase ()
+ time ()
+ some more are there 
 
 
